@@ -1,14 +1,13 @@
-## Hivemind: decentralized deep learning in PyTorch
+## HiveMind AI – Chat & Coding Companion
 
 [![Documentation Status](https://readthedocs.org/projects/learning-at-home/badge/?version=latest)](https://learning-at-home.readthedocs.io/en/latest/?badge=latest)
 [![PyPI version](https://img.shields.io/pypi/v/hivemind.svg?color=blue)](https://pypi.org/project/hivemind/)
-[![Discord](https://img.shields.io/static/v1?style=default&label=Discord&logo=discord&message=join)](https://discord.gg/uGugx9zYvN)
+[![Discord](https://img.shields.io/static/v1?style=default&label=Discord&logo=discord&message=join)](https://discord.gg/9CtRmyM4)
 [![CI status](https://github.com/learning-at-home/hivemind/actions/workflows/run-tests.yml/badge.svg?branch=master)](https://github.com/learning-at-home/hivemind/actions)
 ![Codecov](https://img.shields.io/codecov/c/github/learning-at-home/hivemind)
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Hivemind is a PyTorch library for decentralized deep learning across the Internet. Its intended usage is training one
-large model on hundreds of computers from different universities, companies, and volunteers.
+HiveMind AI is your ultimate tool for productivity, creativity, and problem-solving. Whether you're coding, brainstorming ideas, or seeking instant solutions, HiveMind AI is here to assist you with precision and speed.
 
 ![img](https://hivemindlanding.replit.app/static/img/IMG_4345.png)
 
