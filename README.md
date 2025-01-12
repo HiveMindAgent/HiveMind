@@ -10,7 +10,7 @@
 Hivemind is a PyTorch library for decentralized deep learning across the Internet. Its intended usage is training one
 large model on hundreds of computers from different universities, companies, and volunteers.
 
-![img](https://chatgpt.com/backend-api/content?id=file-neOu4qpYAI3kkGPHugVzk1gR&gizmo_id=g-pivvrID8H&ts=482416&p=gpp&sig=c4c7ac61a326bbcf7c0618d3557ee46fff9fdaccddcda78e0d8b102a5fdec230&v=0)
+![img](https://hivemindlanding.replit.app/static/img/IMG_4345.png)
 
 ## Key Features
 
